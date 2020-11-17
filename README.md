@@ -1,5 +1,16 @@
-*** DISCLAIMER ***
+# Printer Manager
+A printer manager built using Java multithreading
 
-I was not able to get the makefile working due to an error I could not fix that gave me permission denied errors. I credit this to my lack of knowledge on Java makefiles, and the lack of documentation and examples online didn't help the situation either. I have a makefile that compiles the project files, but doesn't run them.
+## Requirements
+-Java JDK 1.8 
 
-HOWEVER, my code compiles and runs when my mainClass.java is compiled directly within my src folder. I have a working GUI as well, but I was unable to run the program itself with a makefile. I hope that at least partial credit can be awarded because I spent a total of 20+ hours on this project.
+## How to Operate
+  ### Command line
+  1. Open command line and navigate to __src__ folder
+  2. Use command __javac__ to compile __mainClass.java__
+  3. Use command __java__ followed by the __jar__ file 
+     generated inside the __bin__ folder
+  
+  ### IDE
+  1. Open __mainClass.java__ in IDE
+  2. __Execute__ the file as a Java program
