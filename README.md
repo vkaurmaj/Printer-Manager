@@ -2,7 +2,7 @@
 A printer manager built using Java multithreading
 
 ## Requirements
--Java JDK 1.8 
+- Java JDK 1.8 
 
 ## How to Operate
   ### Command line
